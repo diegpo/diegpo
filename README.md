@@ -5,6 +5,7 @@
 💻 Dev apaixonado por **jogos, programação e criatividade**  
 🎮 Trabalho em **projetos no GameMaker Studio 2** (linguagem GML, próxima do JavaScript)  
 📚 Estudo e busco me desenvolver cada vez mais em outras linguagens de programação, como ASSEMBLY, JAVA e **ADVPL**
+
 🚀 Meu foco é aprender e transformar ideias em experiências digitais!  
 
 ---
