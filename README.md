@@ -1,6 +1,6 @@
 # ⚡️ Rock On! Eu sou o Diego (a.k.a. ROCK IA) 🎮🤖  
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRrMG54eXp2djBnZzhwM3hqcXRkM2E4ejNtd3F5MTJibHh5YmU1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A2F2iLP5vcm64/giphy.gif" width="200"/>
+
 
 💻 Dev apaixonado por **jogos, programação e criatividade**  
 🎮 Trabalho em **projetos no GameMaker Studio 2** (linguagem GML, próxima do JavaScript)  
